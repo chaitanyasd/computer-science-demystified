@@ -13,4 +13,4 @@ Feel free to fork it, clone it, learn from it and use it anyway you want.
 - [ ] [MB, MiB, GB, GiB, what the differences are and why it causes confusion](http://www.andrewwhyman.com/blog/rants/mb-mib-gb-gib-what-the-differences-are-and-why-it-causes-confusion/)
 
 ## Interesting
-= [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
+- [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
