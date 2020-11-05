@@ -8,6 +8,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&ab_channel=CrashCourse)
 - [ ] [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - [ ] [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
+- [ ] [Prime Numbers - Sieve of Eratosthenes](https://www.youtube.com/watch?v=V08g_lkKj6Q&ab_channel=Region10ESC)
 
 ## Text
 - [ ] [MB, MiB, GB, GiB, what the differences are and why it causes confusion](http://www.andrewwhyman.com/blog/rants/mb-mib-gb-gib-what-the-differences-are-and-why-it-causes-confusion/)
