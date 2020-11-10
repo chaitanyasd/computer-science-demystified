@@ -12,7 +12,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 
 ## Text
 - [ ] [MB, MiB, GB, GiB, what the differences are and why it causes confusion](http://www.andrewwhyman.com/blog/rants/mb-mib-gb-gib-what-the-differences-are-and-why-it-causes-confusion/)
-- [ ] [Why prefer two's complement over sign-and-magnitude for signed numbers?] (https://stackoverflow.com/questions/1125304/why-prefer-twos-complement-over-sign-and-magnitude-for-signed-numbers#:~:text=Two's%20complement%20allows%20negative%20and,together%20without%20any%20special%20logic.&text=This%20means%20that%20subtraction%20and,same%20circuit%20in%20the%20cpu.)
+- [ ] [Why prefer two's complement over sign-and-magnitude for signed numbers?](https://stackoverflow.com/questions/1125304/why-prefer-twos-complement-over-sign-and-magnitude-for-signed-numbers#:~:text=Two's%20complement%20allows%20negative%20and,together%20without%20any%20special%20logic.&text=This%20means%20that%20subtraction%20and,same%20circuit%20in%20the%20cpu.)
 
 ## Interesting
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
