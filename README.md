@@ -9,11 +9,13 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - [ ] [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 - [ ] [Prime Numbers - Sieve of Eratosthenes](https://www.youtube.com/watch?v=V08g_lkKj6Q&ab_channel=Region10ESC)
+- [ ] [Negative Numbers in Binary](https://www.youtube.com/watch?v=dHB7jFjESLY&ab_channel=MrPowell%27sComputerScienceChannel)
 
 ## Text
 - [ ] [MB, MiB, GB, GiB, what the differences are and why it causes confusion](http://www.andrewwhyman.com/blog/rants/mb-mib-gb-gib-what-the-differences-are-and-why-it-causes-confusion/)
 - [ ] [Why prefer two's complement over sign-and-magnitude for signed numbers?](https://stackoverflow.com/questions/1125304/why-prefer-twos-complement-over-sign-and-magnitude-for-signed-numbers#:~:text=Two's%20complement%20allows%20negative%20and,together%20without%20any%20special%20logic.&text=This%20means%20that%20subtraction%20and,same%20circuit%20in%20the%20cpu.)
 - [ ] [Why are negative numbers stored as 2’s complement?](https://www.geeksforgeeks.org/why-are-negative-numbers-stored-as-2s-complement/)
+- [ ] [Two's complement](http://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html)
 
 ## Interesting
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
