@@ -17,6 +17,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [Why are negative numbers stored as 2’s complement?](https://www.geeksforgeeks.org/why-are-negative-numbers-stored-as-2s-complement/)
 - [ ] [Two's complement](http://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html)
 - [ ] [BaseCS](https://medium.com/basecs) 
+- [ ] [Rest APIs](https://tutorialedge.net/software-eng/what-is-a-rest-api/)
 
 ## Interesting
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
