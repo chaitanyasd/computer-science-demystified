@@ -22,4 +22,4 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 ## Interesting
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
 - [ ] [High Scalability](http://highscalability.com/all-time-favorites/)
-- [ ] (https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [ ] [500 DS-Algo questions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
