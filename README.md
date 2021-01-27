@@ -10,6 +10,8 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 - [ ] [Prime Numbers - Sieve of Eratosthenes](https://www.youtube.com/watch?v=V08g_lkKj6Q&ab_channel=Region10ESC)
 - [ ] [Negative Numbers in Binary](https://www.youtube.com/watch?v=dHB7jFjESLY&ab_channel=MrPowell%27sComputerScienceChannel)
+- [ ] [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&list=PLCC5Pelx5O_LNhdyqFFHHeeDCDap3ZYqC&index=3&ab_channel=DevoxxPoland)
+- [ ] [Why are Distributed Systems so hard?](https://www.youtube.com/watch?v=uTJvMRR40Ag&list=PLCC5Pelx5O_LNhdyqFFHHeeDCDap3ZYqC&index=5&ab_channel=DevOpsDaysLondon)
 
 ## Text/Blogs
 - [ ] [MB, MiB, GB, GiB, what the differences are and why it causes confusion](http://www.andrewwhyman.com/blog/rants/mb-mib-gb-gib-what-the-differences-are-and-why-it-causes-confusion/)
@@ -24,3 +26,4 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
 - [ ] [High Scalability](http://highscalability.com/all-time-favorites/)
 - [ ] [500 DS-Algo questions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [ ] [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g)
