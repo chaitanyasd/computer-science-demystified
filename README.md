@@ -22,6 +22,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [BaseCS](https://medium.com/basecs) 
 - [ ] [What are Rest APIs](https://tutorialedge.net/software-eng/what-is-a-rest-api/)
 - [ ] [Designing REST APIs](https://tutorialedge.net/software-eng/designing-a-rest-api/)
+- [ ] [High Scalability - All time favourites](http://highscalability.com/all-time-favorites/)
 
 ## Interesting
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
