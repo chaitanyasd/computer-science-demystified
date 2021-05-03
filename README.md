@@ -23,6 +23,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [What are Rest APIs](https://tutorialedge.net/software-eng/what-is-a-rest-api/)
 - [ ] [Designing REST APIs](https://tutorialedge.net/software-eng/designing-a-rest-api/)
 - [ ] [High Scalability - All time favourites](http://highscalability.com/all-time-favorites/)
+- [ ] [How the web works](https://github.com/vasanthk/how-web-works)
 
 ## Interesting
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
