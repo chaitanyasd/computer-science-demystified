@@ -25,6 +25,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [High Scalability - All time favourites](http://highscalability.com/all-time-favorites/)
 - [ ] [How the web works](https://github.com/vasanthk/how-web-works)
 - [ ] [Awesome interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [ ] [Python GIL and threads](https://opensource.com/article/17/4/grok-gil)
 
 ## Interesting
 - [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
