@@ -3,6 +3,15 @@ This repository mainly contains the resources I used to find answers to question
 
 Feel free to fork it, clone it, and most importantly ***learn from it***.
 
+
+## Favourites
+- [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
+- [ ] [High Scalability](http://highscalability.com/all-time-favorites/)
+- [ ] [500 DS-Algo questions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [ ] [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g)
+- [ ] [Python GIL and threads](https://opensource.com/article/17/4/grok-gil)
+- [ ] [Netflix: What happens when you press play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+
 ## Videos
 - [ ] [Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech - PyCon 2014](https://www.youtube.com/watch?v=1i8ylq4j_EY&ab_channel=PyCon2014)
 - [ ] [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&ab_channel=CrashCourse)
@@ -25,11 +34,3 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [High Scalability - All time favourites](http://highscalability.com/all-time-favorites/)
 - [ ] [How the web works](https://github.com/vasanthk/how-web-works)
 - [ ] [Awesome interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
-
-## Interesting
-- [ ] [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind)
-- [ ] [High Scalability](http://highscalability.com/all-time-favorites/)
-- [ ] [500 DS-Algo questions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
-- [ ] [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g)
-- [ ] [Python GIL and threads](https://opensource.com/article/17/4/grok-gil)
-- [ ] [Netflix: What happens when you press play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
