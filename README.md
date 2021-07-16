@@ -37,3 +37,4 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [Awesome interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
 - [ ] [Memcached vs Redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
 - [ ] [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
+- [ ] [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
