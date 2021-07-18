@@ -13,6 +13,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [Netflix: What happens when you press play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 - [ ] [How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
 - [ ] [The mind behind Linux](https://www.youtube.com/watch?v=o8NPllzkFhE&ab_channel=TED)
+- [ ] [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok&ab_channel=NextDayVideo)
 
 ## Videos
 - [ ] [Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech - PyCon 2014](https://www.youtube.com/watch?v=1i8ylq4j_EY&ab_channel=PyCon2014)
