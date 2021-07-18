@@ -23,6 +23,7 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&list=PLCC5Pelx5O_LNhdyqFFHHeeDCDap3ZYqC&index=3&ab_channel=DevoxxPoland)
 - [ ] [Why are Distributed Systems so hard?](https://www.youtube.com/watch?v=uTJvMRR40Ag&list=PLCC5Pelx5O_LNhdyqFFHHeeDCDap3ZYqC&index=5&ab_channel=DevOpsDaysLondon)
 - [ ] [External sorting](https://www.youtube.com/watch?v=Bp7fGofslng&ab_channel=GATEAppliedCourse)
+- [ ] [How DNS works](https://www.youtube.com/watch?v=72snZctFFtA&ab_channel=DNSMadeEasyVideos)
 
 ## Text/Blogs
 - [ ] [MB, MiB, GB, GiB, what the differences are and why it causes confusion](http://www.andrewwhyman.com/blog/rants/mb-mib-gb-gib-what-the-differences-are-and-why-it-causes-confusion/)
