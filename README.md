@@ -14,6 +14,8 @@ Feel free to fork it, clone it, and most importantly ***learn from it***.
 - [ ] [How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
 - [ ] [The mind behind Linux](https://www.youtube.com/watch?v=o8NPllzkFhE&ab_channel=TED)
 - [ ] [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok&ab_channel=NextDayVideo)
+- [ ] [Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8&ab_channel=GoogleTalksArchive)
+- [ ] [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E&t=888s&ab_channel=InfoQ)
 
 ## Videos
 - [ ] [Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech - PyCon 2014](https://www.youtube.com/watch?v=1i8ylq4j_EY&ab_channel=PyCon2014)
